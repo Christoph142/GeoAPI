@@ -44,11 +44,11 @@ namespace GeoAPI.Geometries
         /// <summary>
         /// Y coordinate.
         /// </summary>
-        public double Y { get; set; }; // = Double.NaN;
+        public double Y { get; set; } // = Double.NaN;
         /// <summary>
         /// Z coordinate.
         /// </summary>
-        public double Z { get; set; }; // = Double.NaN;
+        public double Z { get; set; } // = Double.NaN;
 
         /// <summary>
         /// Constructs a <other>Coordinate</other> at (x,y,z).
